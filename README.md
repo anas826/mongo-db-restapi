@@ -2,6 +2,7 @@
 The following was discovered as part of building this project:
 
 * The original package name 'mongo-db-first.Mongo_db' is invalid and this project uses 'mongodbfirst.Mongo_db' instead.
+* The repository is simple spring rest api which stores data on mongo db.
 
 # Getting Started
 
